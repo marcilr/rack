@@ -1,0 +1,9 @@
+rack.txt
+Created Tue Apr 24 13:55:53 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Rack
+
+
+4-post rack of network and storage I have in the garage.
