@@ -1,0 +1,14 @@
+links.txt
+Created Fri Jun 22 16:11:02 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Rack related links
+
+
+Links
+=====
+Casetronic F2300
+Pretty darn nice 2U box with 3x PCIe slots
+http://www.casetronic.com/corporates/195-f2300.html
+
