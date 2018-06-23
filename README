@@ -5,7 +5,15 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+links.txt
+  Rack related links
+
+manifest
+  Manifest for resync application
+
 rack.txt
   Rack
   4-post rack of network and storage I have in the garage 
 
+storage/
+  Storage
